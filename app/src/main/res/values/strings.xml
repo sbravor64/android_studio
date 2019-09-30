@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="boton_iniciar_registro">iniciar_registro</string>
+</resources>
